@@ -1,7 +1,11 @@
 # COMP1238
-<h1>📂 COMP 1238 Lab Assignment Number 3</h1>
+<h1 align="center">
+  📂 COMP 1238 Lab Assignment Number 3
+</h1>
 
 <p>
+
+<h2>🔢 Number row characters</h2>
 
 ! = Exaclamation Mark
 
@@ -51,10 +55,11 @@ _ = Hyphen, Minus symbol, and Dash
 <p>
 
   This place is where I put my experimentations, and wild ideas. Thanks for looking at my whitespace 🦀.
+  
+  ![U DUN SAY](https://i.pinimg.com/736x/bd/71/fc/bd71fcbb1791333b3ded1c23627f6fc7.jpg)
 
 </P>
 
-![U DUN SAY](https://i.pinimg.com/736x/bd/71/fc/bd71fcbb1791333b3ded1c23627f6fc7.jpg)
 
 <hr>
 
