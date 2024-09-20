@@ -1,8 +1,5 @@
 # COMP1238
-
-🦀 BOMBACLOT CRAB 🦀
-
-<h1> COMP 1238 Lab Assignment Number 3</h1>
+<h1>📂 COMP 1238 Lab Assignment Number 3</h1>
 
 <p>
 
@@ -59,6 +56,7 @@ _ = Hyphen, Minus symbol, and Dash
 
 ![U DUN SAY](https://i.pinimg.com/736x/bd/71/fc/bd71fcbb1791333b3ded1c23627f6fc7.jpg)
 
+<hr>
 
 
 
