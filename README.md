@@ -20,6 +20,23 @@
 *_ = Hyphen, Minus symbol, and Dash
 * \+ = Plus / Addition sign
 
+<hr>
+
+<h3>💬 Keyboard Shortcuts That I Frequently Use</h3>
+
+<ul>
+  <li>Ctrl + C for Copy</li>
+  <li>Ctrl + V for Paste</li>
+  <li>Ctrl + Z for Undo</li>
+</ul>
+
+<p>💬 Keyboard Shortcuts That I Would Like To Start Using</p>
+
+<ul>
+  <li>Ctrl + F5 and/or Ctrl + R to refresh page</li>
+  <li>Ctrl + A to select all</li>
+  <li>Ctrl + N to open a new window</li>
+</ul>
 
 
 <hr>
@@ -46,19 +63,5 @@
   
 
 ![U DUN SAY](https://i.pinimg.com/736x/bd/71/fc/bd71fcbb1791333b3ded1c23627f6fc7.jpg)
-
-<hr>
-
-<h3>💬 Keyboard Shortcuts That I Frequently Use<h3>
-
-- Ctrl + C For Copy
-- Ctrl + V For Paste
-- Ctrl + Z For Undo
-
-<p>💬 Keyboard Shortcuts That I Would Like To Start Using</p>
-
-- Ctrl + F5 and or Ctrl + R refresh page
-- Ctrl + A select all
-- Ctrl + N Open new window
 
 <hr>
