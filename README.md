@@ -23,7 +23,7 @@
 
 <hr>
 
-<h2>💬 Keyboard Shortcuts That I Frequently Use</h2>
+<h3>💬 Keyboard Shortcuts That I Frequently Use</h3>
 
 <ul>
   <li>Ctrl + C for Copy</li>
