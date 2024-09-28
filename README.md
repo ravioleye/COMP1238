@@ -7,29 +7,18 @@
 
 <ul>
 
-  * ! = Exaclamation Mark
-  
-  * @ = At Sign
-  
-  * \# = Pound / Number
-  
-  * $ = Dollar Sign
-  
-  * % = Percent Sign
-  
-  * ^ = Carnet Sign
-  
-  * & = Ampersand (and symbol)
-  
-  * \* = Asterisk / Multiplication sign
-  
-  * ( = Open Parenthesis / Bracket
-  
-  * ) = Closed Parenthesis / Bracket
-  
-  * _ = Hyphen, Minus symbol, and Dash
-  
-  * \+ = Plus / Addition sign
+  <il>* ! = Exaclamation Mark </il>
+  <il>* @ = At Sign</il>
+  <il>* \# = Pound / Number</il>
+  <il>* $ = Dollar Sign</il>
+  <il>* % = Percent Sign</il>
+  <il>* ^ = Carnet Sign</il>
+  <il>* & = Ampersand (and symbol)</il>
+  <il>* \* = Asterisk / Multiplication sign</il>
+  <il>* ( = Open Parenthesis / Bracket</il>
+  <il>* ) = Closed Parenthesis / Bracket</il>
+  <il>* _ = Hyphen, Minus symbol, and Dash</il>
+  <il>* \+ = Plus / Addition sign</il>
 
 </ul>
 
@@ -73,9 +62,9 @@
 
 <ul>
 
-  * Ctrl + C copy
-  * Ctrl + V paste
-  * Ctrl + Z undo
+  <il>* Ctrl + C copy</il>
+  <il>* Ctrl + V paste</il>
+  <il>* Ctrl + Z undo</il>
 
 </ul>
 
