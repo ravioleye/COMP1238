@@ -1,7 +1,9 @@
-# COMP1238
 <h1 align="center">
 📂 COMP 1238 Lab Assignment Number 3
 </h1>
+
+<hr>
+
 <h2>🔢 Number row characters</h2>
 
 
@@ -49,16 +51,14 @@
 
 <h3>💬 Keyboard Shortcuts That I Frequently Use<h3>
 
-* Ctrl + C For Copy
-* Ctrl + V For Paste
-* Ctrl + Z For Undo
+- Ctrl + C For Copy
+- Ctrl + V For Paste
+- Ctrl + Z For Undo
 
-<hr>
+<p>💬 Keyboard Shortcuts That I Would Like To Start Using</p>
 
-<h3>💬 Keyboard Shortcuts That I Would Like To Start Using</h3>
-
-* Ctrl + F5 and or Ctrl + R refresh page
-* Ctrl + A select all
-* Ctrl + N Open new window
+- Ctrl + F5 and or Ctrl + R refresh page
+- Ctrl + A select all
+- Ctrl + N Open new window
 
 <hr>
