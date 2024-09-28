@@ -3,35 +3,24 @@
   📂 COMP 1238 Lab Assignment Number 3
 </h1>
 
-<p>
-
 <h2>🔢 Number row characters</h2>
 
-! = Exaclamation Mark
+<ul>
 
-@ = At Sign
+  * ! = Exaclamation Mark
+  * @ = At Sign
+  * \# = Pound / Number
+  * $ = Dollar Sign
+  * % = Percent Sign
+  * ^ = Carnet Sign
+  * & = Ampersand (and symbol)
+  * \* = Asterisk / Multiplication sign
+  * ( = Open Parenthesis / Bracket
+  * ) = Closed Parenthesis / Bracket
+  * _ = Hyphen, Minus symbol, and Dash
+  * \+ = Plus / Addition sign
 
-\# = Pound / Number
-
-$ = Dollar Sign
-
-% = Percent Sign
-
-^ = Carnet Sign
-
-& = Ampersand (and symbol)
-
-\* = Asterisk / Multiplication sign
-
-( = Open Parenthesis / Bracket
-
-) = Closed Parenthesis / Bracket
-
-_ = Hyphen, Minus symbol, and Dash
-
-\+ = Plus / Addition sign
-
-</p>
+</ul>
 
 <hr>
 <hr>
@@ -54,17 +43,43 @@ _ = Hyphen, Minus symbol, and Dash
 <h3>  💭 Experiments</h3>
 <p>
 
-  This place is where I put my experimentations, and wild ideas. Thanks for looking at my whitespace 🦀.
+  * This place is where I put my experimentations, and wild ideas. Thanks for looking at my whitespace 🦀.
   
+  
+  
+  </p>
+
   ![U DUN SAY](https://i.pinimg.com/736x/bd/71/fc/bd71fcbb1791333b3ded1c23627f6fc7.jpg)
 
-</P>
+
 
 
 <hr>
 
+<h3>💬 Keyboard Shortcuts That I Frequently Use<h3>
+
+<p>
+
+<ul>
+
+  * Ctrl + C copy
+  * Ctrl + V paste
+  * Ctrl + Z undo
+
+</ul>
 
 
 
+<p>Keyboard Shortcuts That I Would Like To Start Using</p>
+
+<ul>
+
+  * Ctrl + F5 and or Ctrl + R refresh page
+  * Ctrl + A select all
+  * Ctrl + N Open new window
+
+</ul>
+
+</p>
 
 
