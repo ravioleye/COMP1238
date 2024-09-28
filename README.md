@@ -8,16 +8,27 @@
 <ul>
 
   * ! = Exaclamation Mark
+  
   * @ = At Sign
+  
   * \# = Pound / Number
+  
   * $ = Dollar Sign
+  
   * % = Percent Sign
+  
   * ^ = Carnet Sign
+  
   * & = Ampersand (and symbol)
+  
   * \* = Asterisk / Multiplication sign
+  
   * ( = Open Parenthesis / Bracket
+  
   * ) = Closed Parenthesis / Bracket
+  
   * _ = Hyphen, Minus symbol, and Dash
+  
   * \+ = Plus / Addition sign
 
 </ul>
