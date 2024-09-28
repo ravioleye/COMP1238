@@ -53,7 +53,7 @@
 
 <hr>
 
-<h2>💭 Experiments</h2>
+<h3>💭 Experiments</h3>
 
 <p>This place is where I put my experimentations and wild ideas. Thanks for looking at my whitespace 🦀.</p>
 
