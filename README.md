@@ -1,38 +1,28 @@
 # COMP1238
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
+<h1 align="center">
+📂 COMP 1238 Lab Assignment Number 3
+</h1>
+<h2>🔢 Number row characters</h2>
 
-  </head>
 
-<body>
+* ! = Exaclamation Mark 
+* @ = At Sign
+* \# = Pound / Number
+* $ = Dollar Sign
+* % = Percent Sign
+* ^ = Carnet Sign
+* & = Ampersand (and symbol)
+* \* = Asterisk / Multiplication sign
+*( = Open Parenthesis / Bracket
+* ) = Closed Parenthesis / Bracket
+*_ = Hyphen, Minus symbol, and Dash
+* \+ = Plus / Addition sign
 
- <h1 align="center">
-  📂 COMP 1238 Lab Assignment Number 3
-  </h1>
 
-  <h2>🔢 Number row characters</h2>
 
-  <ul>
- 
-    <il>* ! = Exaclamation Mark </il>
-    <il>@ = At Sign</il>
-    <il>\# = Pound / Number</il>
-    <il>$ = Dollar Sign</il>
-    <il>% = Percent Sign</il>
-    <il>^ = Carnet Sign</il>
-    <il>& = Ampersand (and symbol)</il>
-    <il>\* = Asterisk / Multiplication sign</il>
-    <il>( = Open Parenthesis / Bracket</il>
-    <il>) = Closed Parenthesis / Bracket</il>
-    <il>_ = Hyphen, Minus symbol, and Dash</il>
-    <il>\+ = Plus / Addition sign</il>
-  </ul>
+<hr>
 
-  <hr>
-  <hr>
-
-  <h2>🔗 Useful Links</h2>
+<h2>🔗 Useful Links</h2>
 
 * [My Github Page](https://github.com/ravioleye)
 
@@ -45,47 +35,30 @@
 * [Attendace Tracker](https://app.atklass.com/login)
 
 
-  <hr>
+<hr>
 
-  <h3>  💭 Experiments</h3>
-  <p>
+<h3>💭 Experiments</h3>
 
-  * This place is where I put my experimentations, and wild ideas. Thanks for looking at my whitespace 🦀.
+
+* This place is where I put my experimentations, and wild ideas. Thanks for looking at my whitespace 🦀.
   
-  
-  
-  </p>
 
-  ![U DUN SAY](https://i.pinimg.com/736x/bd/71/fc/bd71fcbb1791333b3ded1c23627f6fc7.jpg)
+![U DUN SAY](https://i.pinimg.com/736x/bd/71/fc/bd71fcbb1791333b3ded1c23627f6fc7.jpg)
 
+<hr>
 
+<h3>💬 Keyboard Shortcuts That I Frequently Use<h3>
 
+* Ctrl + C For Copy
+* Ctrl + V For Paste
+* Ctrl + Z For Undo
 
-  <hr>
+<hr>
 
-  <h3>💬 Keyboard Shortcuts That I Frequently Use<h3>
+<h3>💬 Keyboard Shortcuts That I Would Like To Start Using</h3>
 
-  <p>
+* Ctrl + F5 and or Ctrl + R refresh page
+* Ctrl + A select all
+* Ctrl + N Open new window
 
-  <ul>
-    <il>Ctrl + C copy</il>
-    <il>Ctrl + V paste</il>
-    <il>Ctrl + Z undo</il>
-  </ul>
-
-
-
-  <p>Keyboard Shortcuts That I Would Like To Start Using</p>
-
-  <ul>
-    <il>Ctrl + F5 and or Ctrl + R refresh page</il>
-    <il>Ctrl + A select all</il>
-    <il>Ctrl + N Open new window</il>
-  </ul>
-
-  </p>
-
-  </body>
-  </html>
-
-
+<hr>
