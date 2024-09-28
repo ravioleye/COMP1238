@@ -4,33 +4,35 @@
   <head>
 
   </head>
-  <body>
-<h1 align="center">
+
+<body>
+
+ <h1 align="center">
   📂 COMP 1238 Lab Assignment Number 3
-</h1>
+  </h1>
 
-<h2>🔢 Number row characters</h2>
+  <h2>🔢 Number row characters</h2>
 
-<ul>
+  <ul>
  
-  <il>* ! = Exaclamation Mark </il>
-  <il>@ = At Sign</il>
-  <il>\# = Pound / Number</il>
-  <il>$ = Dollar Sign</il>
-  <il>% = Percent Sign</il>
-  <il>^ = Carnet Sign</il>
-  <il>& = Ampersand (and symbol)</il>
-  <il>\* = Asterisk / Multiplication sign</il>
-  <il>( = Open Parenthesis / Bracket</il>
-  <il>) = Closed Parenthesis / Bracket</il>
-  <il>_ = Hyphen, Minus symbol, and Dash</il>
-  <il>\+ = Plus / Addition sign</il>
-</ul>
+    <il>* ! = Exaclamation Mark </il>
+    <il>@ = At Sign</il>
+    <il>\# = Pound / Number</il>
+    <il>$ = Dollar Sign</il>
+    <il>% = Percent Sign</il>
+    <il>^ = Carnet Sign</il>
+    <il>& = Ampersand (and symbol)</il>
+    <il>\* = Asterisk / Multiplication sign</il>
+    <il>( = Open Parenthesis / Bracket</il>
+    <il>) = Closed Parenthesis / Bracket</il>
+    <il>_ = Hyphen, Minus symbol, and Dash</il>
+    <il>\+ = Plus / Addition sign</il>
+  </ul>
 
-<hr>
-<hr>
+  <hr>
+  <hr>
 
-<h2>🔗 Useful Links</h2>
+  <h2>🔗 Useful Links</h2>
 
 * [My Github Page](https://github.com/ravioleye)
 
@@ -43,10 +45,10 @@
 * [Attendace Tracker](https://app.atklass.com/login)
 
 
-<hr>
+  <hr>
 
-<h3>  💭 Experiments</h3>
-<p>
+  <h3>  💭 Experiments</h3>
+  <p>
 
   * This place is where I put my experimentations, and wild ideas. Thanks for looking at my whitespace 🦀.
   
@@ -59,31 +61,31 @@
 
 
 
-<hr>
+  <hr>
 
-<h3>💬 Keyboard Shortcuts That I Frequently Use<h3>
+  <h3>💬 Keyboard Shortcuts That I Frequently Use<h3>
 
-<p>
+  <p>
 
-<ul>
-  <il>Ctrl + C copy</il>
-  <il>Ctrl + V paste</il>
-  <il>Ctrl + Z undo</il>
-</ul>
+  <ul>
+    <il>Ctrl + C copy</il>
+    <il>Ctrl + V paste</il>
+    <il>Ctrl + Z undo</il>
+  </ul>
 
 
 
-<p>Keyboard Shortcuts That I Would Like To Start Using</p>
+  <p>Keyboard Shortcuts That I Would Like To Start Using</p>
 
-<ul>
-  <il>Ctrl + F5 and or Ctrl + R refresh page</il>
-  <il>Ctrl + A select all</il>
-  <il>Ctrl + N Open new window</il>
-</ul>
+  <ul>
+    <il>Ctrl + F5 and or Ctrl + R refresh page</il>
+    <il>Ctrl + A select all</il>
+    <il>Ctrl + N Open new window</il>
+  </ul>
 
-</p>
+  </p>
 
-</body>
-</html>
+  </body>
+  </html>
 
 
