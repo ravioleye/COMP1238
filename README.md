@@ -1,28 +1,29 @@
 <h1 align="center">
-📂 COMP 1238 Lab Assignment Number 3
+  📂 COMP 1238 Lab Assignment Number 3
 </h1>
 
 <hr>
 
-<h2>🔢 Number row characters</h2>
+<h2>🔢 Number Row Characters</h2>
 
-
-* ! = Exaclamation Mark 
-* @ = At Sign
-* \# = Pound / Number
-* $ = Dollar Sign
-* % = Percent Sign
-* ^ = Carnet Sign
-* & = Ampersand (and symbol)
-* \* = Asterisk / Multiplication sign
-*( = Open Parenthesis / Bracket
-* ) = Closed Parenthesis / Bracket
-*_ = Hyphen, Minus symbol, and Dash
-* \+ = Plus / Addition sign
+<ul>
+  <li>! = Exclamation Mark</li>
+  <li>@ = At Sign</li>
+  <li># = Pound / Number</li>
+  <li>$ = Dollar Sign</li>
+  <li>% = Percent Sign</li>
+  <li>^ = Caret Sign</li>
+  <li>& = Ampersand (and symbol)</li>
+  <li>* = Asterisk / Multiplication Sign</li>
+  <li>( = Open Parenthesis / Bracket</li>
+  <li>) = Closed Parenthesis / Bracket</li>
+  <li>- = Hyphen, Minus Symbol, and Dash</li>
+  <li>+ = Plus / Addition Sign</li>
+</ul>
 
 <hr>
 
-<h3>💬 Keyboard Shortcuts That I Frequently Use</h3>
+<h2>💬 Keyboard Shortcuts That I Frequently Use</h3>
 
 <ul>
   <li>Ctrl + C for Copy</li>
@@ -38,30 +39,26 @@
   <li>Ctrl + N to open a new window</li>
 </ul>
 
+<hr>
+
+<h3>🔗 Useful Links</h2>
+
+<ul>
+  <li><a href="https://github.com/ravioleye">My Github Page</a></li>
+  <li><a href="https://www.georgebrown.ca/teaching-and-learning-exchange/educational-technology/d2l-brightspace">George Brown Brightspace / D2L Page</a></li>
+  <li><a href="https://www.georgebrown.ca/">This is my School!!</a></li>
+  <li><a href="https://www.w3schools.com/">One Of The Better Websites to Learn Programming!</a></li>
+  <li><a href="https://app.atklass.com/login">Attendance Tracker</a></li>
+</ul>
 
 <hr>
 
-<h2>🔗 Useful Links</h2>
+<h2>💭 Experiments</h2>
 
-* [My Github Page](https://github.com/ravioleye)
+<p>This place is where I put my experimentations and wild ideas. Thanks for looking at my whitespace 🦀.</p>
 
-* [George Brown Brightspace / D2L Page](https://www.georgebrown.ca/teaching-and-learning-exchange/educational-technology/d2l-brightspace)
-
-* [This is my School!!](https://www.georgebrown.ca/)
-
-* [One Of The Better Websites to Learn Programming!](https://www.w3schools.com/)
-
-* [Attendace Tracker](https://app.atklass.com/login)
-
+<img src="https://i.pinimg.com/736x/bd/71/fc/bd71fcbb1791333b3ded1c23627f6fc7.jpg" alt="U DUN SAY">
 
 <hr>
-
-<h3>💭 Experiments</h3>
-
-
-* This place is where I put my experimentations, and wild ideas. Thanks for looking at my whitespace 🦀.
-  
-
-![U DUN SAY](https://i.pinimg.com/736x/bd/71/fc/bd71fcbb1791333b3ded1c23627f6fc7.jpg)
 
 <hr>
