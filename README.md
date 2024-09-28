@@ -1,4 +1,10 @@
 # COMP1238
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+
+  </head>
+  <body>
 <h1 align="center">
   📂 COMP 1238 Lab Assignment Number 3
 </h1>
@@ -6,18 +12,19 @@
 <h2>🔢 Number row characters</h2>
 
 <ul>
+ 
   <il>* ! = Exaclamation Mark </il>
-  <il>* @ = At Sign</il>
-  <il>* \# = Pound / Number</il>
-  <il>* $ = Dollar Sign</il>
-  <il>* % = Percent Sign</il>
-  <il>* ^ = Carnet Sign</il>
-  <il>* & = Ampersand (and symbol)</il>
-  <il>* \* = Asterisk / Multiplication sign</il>
-  <il>* ( = Open Parenthesis / Bracket</il>
-  <il>* ) = Closed Parenthesis / Bracket</il>
-  <il>* _ = Hyphen, Minus symbol, and Dash</il>
-  <il>* \+ = Plus / Addition sign</il>
+  <il>@ = At Sign</il>
+  <il>\# = Pound / Number</il>
+  <il>$ = Dollar Sign</il>
+  <il>% = Percent Sign</il>
+  <il>^ = Carnet Sign</il>
+  <il>& = Ampersand (and symbol)</il>
+  <il>\* = Asterisk / Multiplication sign</il>
+  <il>( = Open Parenthesis / Bracket</il>
+  <il>) = Closed Parenthesis / Bracket</il>
+  <il>_ = Hyphen, Minus symbol, and Dash</il>
+  <il>\+ = Plus / Addition sign</il>
 </ul>
 
 <hr>
@@ -75,5 +82,8 @@
 </ul>
 
 </p>
+
+</body>
+</html>
 
 
