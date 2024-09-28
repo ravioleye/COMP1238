@@ -6,7 +6,6 @@
 <h2>🔢 Number row characters</h2>
 
 <ul>
-
   <il>* ! = Exaclamation Mark </il>
   <il>* @ = At Sign</il>
   <il>* \# = Pound / Number</il>
@@ -19,7 +18,6 @@
   <il>* ) = Closed Parenthesis / Bracket</il>
   <il>* _ = Hyphen, Minus symbol, and Dash</il>
   <il>* \+ = Plus / Addition sign</il>
-
 </ul>
 
 <hr>
@@ -61,11 +59,9 @@
 <p>
 
 <ul>
-
-  <il>* Ctrl + C copy</il>
-  <il>* Ctrl + V paste</il>
-  <il>* Ctrl + Z undo</il>
-
+  <il>Ctrl + C copy</il>
+  <il>Ctrl + V paste</il>
+  <il>Ctrl + Z undo</il>
 </ul>
 
 
@@ -73,11 +69,9 @@
 <p>Keyboard Shortcuts That I Would Like To Start Using</p>
 
 <ul>
-
-  * Ctrl + F5 and or Ctrl + R refresh page
-  * Ctrl + A select all
-  * Ctrl + N Open new window
-
+  <il>Ctrl + F5 and or Ctrl + R refresh page</il>
+  <il>Ctrl + A select all</il>
+  <il>Ctrl + N Open new window</il>
 </ul>
 
 </p>
