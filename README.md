@@ -49,6 +49,7 @@
   <li><a href="https://www.georgebrown.ca/">This is my School!!</a></li>
   <li><a href="https://www.w3schools.com/">One Of The Better Websites to Learn Programming!</a></li>
   <li><a href="https://app.atklass.com/login">Attendance Tracker</a></li>
+  <li><a href="/_config.yml>">This is MY Page About Some CLI Commands</li>
 </ul>
 
 <hr>
